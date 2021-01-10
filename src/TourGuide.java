@@ -66,7 +66,7 @@ public class TourGuide {
        else if(choice == 'd' || choice == 'C'){
         Forest a = new Forest();
         Forest b = new Forest();
-        System.out.println(" | Welcome to Cultural Guide | ");
+        System.out.println(" | Welcome to Forest Guide | ");
         b.PrintTour();
         System.out.println("================================");
         a.printCulture();
